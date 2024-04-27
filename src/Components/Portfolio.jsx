@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "WebSketch Converter",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "WebSketch Converter is a project that converts hand-drawn designs into HTML, CSS, and JavaScript code. It is built using Python and Gemini Vision Pro, making the process of web development more intuitive and accessible.",
+    url: "#",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Sentimental Analysis",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The Sentiment Analysis Engine is a project that takes in bulk URLs and text, performs sentiment analysis, and provides a sentiment score. It is built using Python and the Natural Language Toolkit (NLTK), offering a powerful solution for understanding emotional tones in text.",
+    url: "https://github.com/MythicalMAxX/Sentimental-Analysis",
   },
   {
-    title: "My Resume Site",
+    title: "Text To AI Image Generator",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Text To AI Image Generator is a project that converts text into high-quality images with extra pixels. It is built using Python, Hugging Face, and Stable Diffusion V1, providing a unique approach to image generation from textual descriptions.",
+    url: "https://github.com/MythicalMAxX/Text_To_AI_Image_Generator",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "MySql Client",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "MySql Client is a Discord bot that allows users to access MySQL databases directly from Discord chats, without any authentication. It also enables users to create their custom queries. It is built using Python and the Discord API, providing a unique and convenient way to interact with databases.",
+    url: "https://github.com/MythicalMAxX/DBProject",
   },
 ];
 
