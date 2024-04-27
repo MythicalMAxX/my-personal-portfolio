@@ -27,12 +27,12 @@ const siteProps = {
   name: "Vinamra Yadav",
   title: "Software and AI/ML Developer",
   email: "myselfvinamrayadav@gmail.com",
-  gitHub: "https://github.com/MythicalMAxX",
-  instagram: "https://www.instagram.com/myselfvinamrayadav/",
-  linkedIn: "https://www.linkedin.com/in/vinamra-yadav/",
-  medium: "https://medium.com/@myselfvinamrayadav",
-  twitter: "https://twitter.com/MVinamraYadav",
-  youTube: "https://www.youtube.com/@vinamrayadav",
+  gitHub: "MythicalMAxX",
+  instagram: "myselfvinamrayadav/",
+  linkedIn: "vinamra-yadav",
+  medium: "myselfvinamrayadav",
+  twitter: "MVinamraYadav",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
